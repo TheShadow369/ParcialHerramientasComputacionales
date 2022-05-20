@@ -1,0 +1,16 @@
+1. Que tipo de errores se presentaron o se pueden presentar con su implementacion al
+problema?
+Mas que todo el problema principal, es idear la estrategia para poder modelar y programar 
+este problema, mas que todo nos tardamos un poco en pensar y ver como desarrollar este programa,
+la solucion, simplemente era leer bien, tuvimos un pequeño error en ver como hacer que el ingreso 
+de los datos, hasta que el nombre este vacio, lo que indicaria que ya no se deben leer mas datos,
+ese fue el unico inconveniente que tuvimos, hubo algunos errores de semantica, muy simples cuando
+ya que por una letra diferente no cogia, pero no fue tan grave ya que era facil identificar el error.
+
+2. Que estrategias podrıa usar para solucionar estos errores?
+para el error principal, utilizamos una depuracion especificamente en ese punto, esto fue muy producctivo
+ya que fue asi que nos dimos cuenta que un condicional no cumplia su funcion y por ende no salia como esperabamos,
+que resultara, de lo demas fue prueba y error ya que era facil ver cuando poniamos mal alguna variable, a pesar de todo
+se podria decir que lo que mas hicimos fue la prueba y error para pulir mas y mas el programa, para generar los resultados 
+que esperabamos, lo bueno fue que ya con la idea planteada y estructurada, fue muy facil solucionar el programa y dar 
+la solucion.
