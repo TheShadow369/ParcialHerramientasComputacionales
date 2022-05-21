@@ -8,7 +8,7 @@ _**1**. Venta_
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://photos.app.goo.gl/mXtzztvGg9mostXg7" alt="JuveYell" width="500px">
+<img src="[https://photos.app.goo.gl/mXtzztvGg9mostXg7](https://drive.google.com/file/d/1pqHowTfjxxpKCnRD8xcxS8TE4u6RXOeC/view?usp=sharing)" alt="JuveYell" width="500px">
 </p>
 </div>
 
