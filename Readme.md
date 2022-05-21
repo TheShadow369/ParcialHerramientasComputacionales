@@ -8,7 +8,7 @@ _**1**. Venta_
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://lh3.googleusercontent.com/2o3GiorEl3-gYCLd2zRUaG5eUErI-tLf8CcTgO9O0K2GWAtgxgcEJDIcIu97VDVjfYSRTrK83uAMngo-JZxKZSdtxSocjHTObARenLgbnQEelSXr-s73NqRU0G48_f6nzVkcfD3HWkvF-uP2JAXB30ZjXccAWJyAI4IAS7QwBMtlBOW_cFmVmFYQuDr-8O0FeTChkhjISTrAnQvE32jBSZ20CwAM-1PuIMNmbq-4o7bra8HMuMGxyqghG8Dsz7zXxOvYIS7U7d5GWj7j4cBVdWZ5ttV1e7cG4wTwHrtmo_ibrDLerdwSS48toGXpQtAFq7VejzgiNwINpvbk3mt6dLHCoiWam00dJlIs2bYx4XhC5kXiI0fbC4lulotF9S1nhOaOEjDDlKi3LtBPK8B4b7EX6tdEQN1ilISIBT69YZVrsh6NmxDdZqWmwmF_eZs8TnxeY2P2gqr_mpjysokM9YOMEAhPY8IAt7mZyegxM4_QIRU2ACKOSPmsVj51ILxU3UmfiJ6YeQpqf18R1w4ynzHoOM3026T4j72LxIFh3rn-sQjFHT1YElhZHNdv9mnkrnVj3Sq7HJPNAuAaz9gBKA7wLEaEnKDq-eqEGhqNbr-t6NvcQI6pWAqvwZNlYxSGx2tNOo19IsyaDcr6iGOsxH2bRkSPzDh4vT27-q_NTdNvE-V3WKBXtVZWCGuA6fUqvHFlsFafCGxdsexgnlbG3MSb11aC3kKEXblvmTK4L_YDWZBLkdmFn4b6I68=w776-h162-no?authuser=0" alt="JuveYell" width="500px">
+<img src="https://photos.app.goo.gl/mXtzztvGg9mostXg7" alt="JuveYell" width="500px">
 </p>
 </div>
 
@@ -21,7 +21,7 @@ La opción identificada con el numero _“1”_, su función es replicar el func
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://lh3.googleusercontent.com/TtUjqKksVxnfrZBAQ1HO8TeOG0rI12YRR9SxKz-a5Nq2PoJYKtAiafuMWtApwB_r62kjGJ3c8yGmd3uQNyKnvdkD6cMikc5dca0uBSY0w_IOl5QxrxaDf7-d5KUA20S-4oj8k_XGMbm9M-1KuPcrSjYtHM1wNktxT1CDZHUtMEuNmgqExidTbWTmA5hsSdJLBVeolpOOQMoBDK2rCtJZKGindiDWArQrZcX3bR0s4E5Y2A14KBIG_uCorC2MRWdb_3YtWpeuAG4c2GJdwFqekOobltV2zLHECasTpM8HJBsm0k6wY3f0PLAnLQab9mU-HRuHyaOjuJv_mDzSohuJus1RDBScI2xUafiHE9CO3dHRJRdb_-wDPP1bbqqkmZpaLmiW2cwo2bit8-nOmG6h7lPYvdfqBGRcJyQfF3jJDqwog0vx3EwDWY6cXZW-OQ9pGbFWfqEBABGgDDUzeRYGIoK319SghMWYalEIEuIMunL2C4RsOWafzA-ZiMby7U41Htmz7L-3sHScT4hmmLQVjtPbuEprXUX043FHMxr26oQvfaLiFiMFJzflTZF8j0lcy4UILO2i3vl1kgycacWaSxvplwlTgFkcCdDhYXFe6o36BAVYyW-Eaptutw53tBhvL_94PivvFSHO5Mn-tcALvwNUyvbwNqpFdtFbxV_rwCWrK05GDIw_mBdy6VeDX0aXwLUuDmiP1ncjrpUX9e6Nrv81_geuGv7iV6XZnB8xQC0l3SWcVkALyZS4-f4=w665-h615-no?authuser=0" alt="JuveYell" width="500px">
+<img src="https://photos.app.goo.gl/d8B6KzkGJW3m6vaf6" alt="JuveYell" width="500px">
 </p>
 </div>
 
@@ -31,7 +31,7 @@ En caso de que sea _estudiante_ preguntara si tiene beca o no, para ello deberá
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://lh3.googleusercontent.com/EaYmWGx5AMquV8KF4sYex5UJh4HQZNuND9EWJeSlMLReSXmfqt8p_f9GSYbpnWs3goQ2-6S6ZsddJSJv2iuh1_Qa9yclzpkXhZo-L0jEaJvn_6s07LM9Kowkieow-9SQhiLVaol-aMgU_mxLLWHtjMaS-la4Nx1n0ZZazWv4kgtJeJ9ME4Ourp7Ov61Tho9cQF_mVWAFb0rVCgNO7OQI-bVCQsh8Atav3vLgI8vg1W_VUBMYKEo1sCdNAp7Gl8Aj4Z_W1ekKCjgiFtJUnX9pHSPitnoUn7swAMxso0qHbIZG2rwo5UHuWGBaa4O7lrRukmUcn0eExYYrVxKNquqZ0MR58XDiTqUWgkmAjSSPbLTf3SAoSowC_bHtbAeKdVA6pDTHDlqQ_sUQUeO0wGPr6fdGVDQwpaxPV6GSmortJ3ki9pKwYDN4gX9csOprzKUzhglI4t5CFBTiN091M-yBdACzBVl27xX6snMwQ0OffphVsOkvoBq2KfjaEjJCq6DdA_45nqtWCLTjujOp8u27h9kEjGaAvv_LaRhXs-Dxk75oTGfBwavgaF1AeBbeCK_6CUHggwdlqolaz43zvWBFF1krP-4wNV3CMVgtTaauT9HhC70SmpQCl03zqXHk0DRcnHZNjhknbA-sSC6HpNI_6dl4Es8OdWLPA3hdAStvtTw4AambH826qblnl88IMbYf9xnivPFeFq0Yb2MCTzfrKPbQjyvMKTLclEXRWZyzS9klDKVTlUebTOxCSiM=w821-h300-no?authuser=0" alt="JuveYell" width="500px">
+<img src="https://photos.app.goo.gl/4hPS1GwmD54s2bvx7" alt="JuveYell" width="500px">
 </p>
 </div>
 
@@ -42,7 +42,7 @@ En la siguiente línea imprimirá el _valor total_, de toda la compra, en la sig
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://lh3.googleusercontent.com/ClF9THye8wH75GNxL359Xxz9mCpdCyGKKorJJnAykIpT287zAhs6E1hWV0xdmXFodEhEJuds-7JaJCrID9XrGynyeLm_ZhFpcvV9t9Lu3Fosi1mo4VyO7SpJvdK5s7JXegJ7CpZMddfeKPD9fW8tqAFU-eO83CPjfP06xTxd1EJUMpKkUnG3Ft-5oJQNpPd-yuAgjjo4bFMsbR8J8orUjoFiXIZvvGNJOh1A8w8JhKE21dhxZdO_CCf6dYxHl-ppmVqRTCpBfXgSdhAu8KCt9YELZ5bcazwkSbAGh-8Xlv_iWvFccxLEgzPeJYDGvQrZVjhFDmF-NwKIBCILIdit9olJaCHOQcJHNyylYmcxwDFVVb1PxREbuxoOz3g4y1QGuuWvk0ieq0U3DXyv_55npBUcyytYZpzV0YRXJFYjHpKpN4tKMB5eumuZzi82v1_g6cAVzEaxpPaD1BvJtJd3tmYjlUyo3TspIkGEuR_wyMGJkv2bHwVASqWz1M4ITvcHYs3LDR0qwhCgxq8WBMVl5Wjom8kArV8IPGrHgjWwQnlI_LU6QjdQpS8_4UepKUR5v5YwRs3HrkaerzCSq_OqRjFHeqC7u-HDjLHlySnKILKUD0If2TBREZiW0caDD37LzMlMvgh2ksdlJZnaXlStGUGSLyYyuXTaUOhlNhMwp3PtS1THXEUXZ_icLKmw5vGfdlaABI38ZxDocB79RFoaJyiCeqMbm-HOFzl_VXorF9dagw5NLpYprWvbO0c=w611-h633-no?authuser=0" alt="JuveYell" width="500px">
+<img src="https://photos.app.goo.gl/bY4Kx34hpKioArCP8" alt="JuveYell" width="500px">
 </p>
 </div>
 
@@ -50,7 +50,7 @@ Para resolver el problema de _identificar los valores y de pago total, pago con 
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://lh3.googleusercontent.com/73cNZ2vNq95jKU8n00krBx5_jGVtNPuxxN2_PfpDgPt3R2iPYZgsPpq7d2DyZ4rA5EBCytmyf_KlUzl86zNB2HMNDN7_5PpKVfa_MBFxx-8EYWs6aw-5_449vei3GR-TXTFIJteR_Rz41kzgZWyvXtC3IZJd0pzT3Kp6m0gDg4HdCcosPmQBmVko2PvLXp_u3gA67AXSLwpYIwnIJtu0DCpi8tZxDl2o4GE2eF_Yu6hbJ7V3mN1jYqV9AZSmHcGaAa7fde1rA0McKtWVfWKr2Sx5reFSVVdG2gVkpL0uVQ1zREAuli-FPs2ZT4fIaFgGbaTerWUokiM6HNMB0zO0qiHdu332aXMa5hvwCTqumKt8v-oIJsZdlis_fP3QMHUzNQmVGySiAXPjb3qfvNmjpk4qIiLj7SSXLOW3o_r5eyNA0EvjG19jVHoL1kzEOtbpz7xH2x3U28J0aSFRMlUyLyGTHwl6NL3IO7yRxZ8eNKTgl7SNO6m8_9RqUVrvG2NzaYrbX1D7pVgaLCl-HGL6uQPp33Qf-XJb1es-3W5cTPfHcndunsOsByPZPyV6RNjLwGnx1AL9LjuiVJREe98_PFEowaDqz2ZW_lILDsVtFRiWz_ZYwTj4h1vXNyl6A8-WbsGK5yqK3WyrH9Dd9AZufcufgC5GhS_LBQLZvps5mX36pD2UxECRiz2XnixxpJkBi4NWmIupAlBe6F8Gr3Dv8_AkdASXfLicdgoDV7WY_0MJGLWQB_F74PGKoiM=w637-h633-no?authuser=0" alt="JuveYell" width="500px">
+<img src="https://photos.app.goo.gl/y59T8NFd4sNTzsiY9" alt="JuveYell" width="500px">
 </p>
 </div>
 
@@ -59,6 +59,6 @@ La otra es un procedimiento llamado _factura_, que pide como datos de entrada, l
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://lh3.googleusercontent.com/KRh4hSAIJfcBXn_UOypA-lFnHr-mO_QvvYz-DKsWS_OPyENjx805ngOsk8bvJzqehAd-QKeVlafWiwSDJWyHUMm6v9fflzC9AJ1W9p2MqV4jprsrVkgR_kx9f1Licp2NUy6JWXYmrC6AfaZnUZvOztU6Lta9k7Y1usTFTHtA_J49Rzjlf4Wd5wFQXOjEiIa7R-BsGyCWHWb5loPi-TxA5hlXCeg9XNR3aMyu66aCV4erMKAImf1QvhGSb0bJeTS9EwB6VSvrEj1ihNn1NLt746G2XTCos3q81dAFEraVuMHsM7EKgC1TcvpHj1dD0nMN82blAjmSRDwvTCyZdRRzrE69MW36Jzig9XXJAyEGUVo13AruoS42HDmElip3uQqy5inmOCEtwGWpq9myoOUShBdAO2xA63oExew4_23VhStCroI1bKQnQBF5jyZLpkBGzI3bfVHhH7VuPscqjOTmFhP2vCmOrokG836LrUfCNMW8sKYXAZKIqdk8HMDYW-Q1QhWgabeun0_Zclg_9EyAiTeGXxR92wzpz_Tg1psk_EOhaC6WVrVebfLAJOre8eyn7eihpf2vCI6iztCFm3JJ43RlVbruQ4RlLQgQrNOds5uXFi8glPhIBRnWSWLuC1TkcsVGOZjHuAoJZ-hh9CuDCZuohBiDxxnf7F8fdnyiwxRC57bBJamRlr0CSicE8gU3LXWluSU9qAgCJievzXHj9w9kAUZPDR1LgzPTfkK0RCOa3RsUIZrzDhQYUmI=w791-h291-no?authuser=0" alt="JuveYell" width="500px">
+<img src="https://photos.app.goo.gl/bRuL2KfxNLPNUQcF8" alt="JuveYell" width="500px">
 </p>
 </div>
