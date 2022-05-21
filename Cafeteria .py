@@ -57,15 +57,13 @@ while program == True:
                               Restaurante Uni-Jave
 
                             1. Venta
-
-                            2. Borrar Producto
                         
                             0. Cerrar 
                 _______________________________________________
 
 """
     print(menu)
-    opcion = input("Seleccione Obcion Requerida :  ")
+    opcion = input("Seleccione Opción Requerida :  ")
     if opcion == "1":
         errores = 0
         com = []
@@ -75,10 +73,10 @@ while program == True:
         if len(pro) == 0:
             ban = False
             print(menu)
-            opcion = input("Seleccione Obcion Requerida :  ")
+            opcion = input("Seleccione Opción Requerida :  ")
         if errores == 3:
             print(menu)
-            opcion = input("Seleccione Obcion Requerida :  ")
+            opcion = input("Seleccione Opción Requerida :  ")
         while ban == True:
             cod = input("Ingrese codigo del producto: ")
             if cod.isdigit() == True and len(cod) == 4:
@@ -112,43 +110,11 @@ while program == True:
         res = totales(com)
         if res == False:
             print(menu)
-            opcion = input("Seleccione Obcion Requerida : " )
+            opcion = input("Seleccione Opción Requerida :  " )
         else:
             factura(com,res,docu)
             print(menu)
-            opcion = input("Seleccione Obcion Requerida :  ")
-        
-            
-    
-    elif opcion == "2":
-        print("Base de Datos")
-        for key in dic:
-            print("Codigo : ",key, "      Nombre: ", dic[key][0], "       Precio: ",dic[key][1],"$" )
-            
-        cod2 = input("Ingrese Nombre del producto : ").lower()
-        for key in dic:
-            if key[0] == cod2:
-                print("ENCONTRADO")
-                print(key," = ", dic[key] )
-                print("Desea Borrarlo")
-                print("Escriba Si o No")
-                res = input().lower()
-                if res == "si":
-                    dic.remove(key)
-                    
-                elif res == "no":
-                    print(menu)
-                    opcion = input()
-                    
-                else:
-                    print("Obcion invalida")
-                    print(menu)
-                    opcion = input("Seleccione Obcion Requerida :  ")
-                    
-            else:
-                print("No Encontrado")
-                print(menu)
-                opcion = input("Seleccione Obcion Requerida :  ")
+            opcion = input("Seleccione Opción Requerida :   ")
         
 
         
@@ -159,4 +125,5 @@ while program == True:
     else:
         print("Invalido")
         opcion = input("Seleccione Obcion Requerida :  ")
+        
         
